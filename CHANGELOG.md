@@ -2,6 +2,12 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.1 (2025-11-01)
+
+### Fix
+
+* Move helper 'find_project_root' to core su6 ([`563360f`](https://github.com/robinvandernoord/su6-plugin-prettier/commit/563360f95fbd456b5b26dcef924cb41ac2d39984))
+
 ## v0.1.0 (2023-07-17)
 ### Feature
 * Initial version of prettier plugin ([`a1e76fd`](https://github.com/robinvandernoord/su6-plugin-prettier/commit/a1e76fd461065db344f160ffb771fb4cb6b640b1))
